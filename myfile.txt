@@ -1,5 +1,9 @@
 동해물과 백두산이 마르고 닳도록
 i am a boy
+<<<<<<< HEAD
 i am hunhung
+=======
+i am ground
+>>>>>>> 4e158632a57130157c483be42a84084be7da840c
 this is a test
 
